@@ -1,0 +1,22 @@
+.card-body {
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+}
+
+.card-body[id="csk"] {
+    background-color: #fcce06;
+}
+.card-body[id="rcb"] {
+    background-color: #d5152c;
+}
+.card-body[id="mi"] {
+    background-color: #004f91;
+}
+.card-body[id="gt"] {
+    background-color: #1B2133;
+}
+.card-body[id="pbks"] {
+    background-color: #ed1f27;
+}
